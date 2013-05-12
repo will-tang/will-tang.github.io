@@ -1,0 +1,22 @@
+Searching 9605 files for "卢克"
+
+0 matches across 0 files
+
+
+Searching 25 files for "克"
+
+/home/googca/Dev/will-tang.github.io/_config.yml:
+    2  permalink: /:year/:month/:title/
+    3  url: http://tangww.com
+    4: author: Will
+    5  pygments: true
+    6  paginate: 16
+
+/home/googca/Dev/will-tang.github.io/_posts/2013/2013-03-25-web.md:
+   15  1986年，美国国家科学基金会（National Science Foundation）建立了大学之间互联的骨干网络NSFNET，这是互联网历史上重要的一步。    
+   16  <br>
+   17: 互联网的发展当然也离不开操作系统的发展，起初贝尔实验室给大学研究室提供的UNIX，是附带源码的，各个研究室可以自行修改。1977，Bill Joy（比尔·乔伊，Sun Microsystems联合创始人，03年离开SUN） 伯克利大学的学生，编译发行了 BSD（Berkeley Software Distribution）。BSD UNIX 是第一个包含了网络协议栈库的UNIX（一开始支持的还是NCP协议），这个库也就是熟知的BSD Sockets。通过将套接字与Unix操作系统的文件描述符相整合，使得网络读写数据和读写本地文件一样容易。BSD Sockets几乎成了网络访问的标准，其他系统的Sockets多多少少是基于BSD Sockets修改而来的，即便是Windows中的Winsock也借鉴了BSD Sockets。   
+   18  乔布斯1985年被赶出苹果，后来他创建了NeXT.Inc，并开发出NEXTSTEP操作系统。这个操作系统是基于Mach和BSD（混合内核 Hybrid kernel）的。1988年NeXTSTEP第一个正式发布版本问世了。     
+   19  <br>
+
+2 matches across 2 files
